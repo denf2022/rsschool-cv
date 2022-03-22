@@ -1,10 +1,10 @@
 # rsschool-cv
 
 
-Denis Bolshakov
-Belarus,Minsk
-Phone: 80292785001
-Email: denf2007@gmail.com
+- Denis Bolshakov
+- Belarus,Minsk
+- Phone: 80292785001
+- Email: denf2007@gmail.com
 
 
 

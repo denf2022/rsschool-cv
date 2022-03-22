@@ -1,25 +1,31 @@
 
 
-Name: Denis Bolshakov
+ # Denis Bolshakov
+---
 
+## Contacts
+-Location: Minsk, Belarus
+-Phone: +375 29 2785001
+-Email: denf2007@gmail.com
+-GitHub: denf2022
+-Site: https://vk.com/bolshakov1988
 
-Contacts
-Location: Minsk, Belarus
-Phone: +375 29 2785001
-Email: denf2007@gmail.com
-GitHub: denf2022
-Site: https://vk.com/bolshakov1988
-
-About Me
+## About Me
 
 I am 33 years old and by education I am an auto mechanic. I decided to change my life and learn how to write code.
 
 
-Skills
+## Skills
 HTML/Css (Basic)
 
 
-Code Example
+## Code Example
+
+```javascript
+ function multiply(a, b) {
+   return a * b
+ }
+ ```
 
 
 Education
