@@ -4,11 +4,11 @@
 ---
 
 ## Contacts
--Location: Minsk, Belarus
--Phone: +375 29 2785001
--Email: denf2007@gmail.com
--GitHub: denf2022
--Site: https://vk.com/bolshakov1988
+- Location: Minsk, Belarus
+- Phone: +375 29 2785001
+- Email: denf2007@gmail.com
+- GitHub: denf2022
+- Site: https://vk.com/bolshakov1988
 
 ## About Me
 
