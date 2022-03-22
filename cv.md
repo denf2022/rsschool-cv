@@ -28,14 +28,14 @@ HTML/Css (Basic)
  ```
 
 
-Education
+## Education
 University: Belarusian National Technical University,speciality - car mechanic engineer
 
 
-Courses:
+## Courses:
 WayUp : Web designer - Start
 
 
 
-English
+### English
 A1 (Maybe). I have no practice,except on the Internet
