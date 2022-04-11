@@ -1,0 +1,518 @@
+
+header {background:url(noise_lines_transparent@2X.png), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
+height: 910px;
+display: grid;
+}
+
+body {padding: 0;
+margin: 0;
+}
+
+h1{font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+color: #F1CDB3;
+}
+
+h2 {font-family: 'Georgia';
+font-style: normal;
+font-size: 44px;
+color: white;
+font-weight: 400;
+margin-top: 238px;
+width: 310px;
+}
+
+h3 {font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+color: #545454;
+width: 275px;
+}
+
+footer h3 {color: #FFFFFF;}
+
+p{font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+color: #545454;
+}
+
+.startScreen {display: grid;
+	width: 1200px;
+	height: 850px;
+	align-self: flex-end;
+	justify-self: center;
+	
+	grid-template-columns: 500px 1fr;
+	grid-template-areas: "header header"
+	                      "info image";
+	grid-template-rows: 60px;                      
+}
+
+
+.header {
+grid-area: header;
+display: grid;
+grid-template-columns: 184px 570px 1fr;
+}
+
+
+.info {
+grid-area: info;}
+
+.logo p {color: #FFFFFF;}
+
+.info p {
+font-size: 15px;
+color: #CDCDCD;
+width: 460px;
+margin-top: 42px;
+}
+
+.info button {width: 207px;
+	height: 52px;
+	background-color: #F1CDB3;
+	border-radius: 100px;
+	color: #292929;
+	border: none;
+	font-family: 'Georgia';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      margin-top: 45px;
+}
+
+.info button:hover {color: yellow;
+	background-color: green;
+	height: 110px;
+	margin-top: 20px;
+	font-size: 40px;
+}
+
+.image {
+grid-area: image;
+display: grid;
+align-items: end;}
+
+.menu {display: grid;
+	grid-template-columns: repeat(4,auto);
+justify-items: end;
+align-items: center;
+}
+
+.menu a {color: #CDCDCD;
+         text-decoration: none;
+         font-family: 'Arial';
+font-style: normal;
+font-size: 15px;
+}
+
+.menu a:hover {
+	color: #FAFAFA;
+	border-bottom: 2px solid #F1CDB3;
+}
+
+.active {color:#FAFAFA;
+	border-bottom: 2px solid #F1CDB3;
+}
+
+
+
+
+.block1 {display: grid;
+	   height: 585px;
+	  
+
+}
+
+.content1 {display: grid;
+width: 1200px;
+height: 408px;
+justify-self: center;
+align-self: center;
+grid-template-columns: 415px 1fr;
+grid-template-rows: 408px;
+}
+
+.info2 h3 {width: 300px;
+margin-top: 14px;}
+
+.info2 p {color: #4C4C4C;
+	font-size: 15px;
+	line-height: 24px;
+	margin-top: 25px;
+	width: 55%;
+}
+
+.block2 {height: 877px;
+background-color: #F6F6F6;
+display: grid;}
+
+.info3 {display: grid;
+align-self: center;
+justify-self: center;
+width: 1200px;
+height: 697px;
+grid-template-columns: 52px 1fr 1fr 1fr 52px;
+grid-template-rows: 90px 550px 52px;
+grid-template-areas: "heading heading heading heading heading"
+                     "slidel card card2 card3 slider"
+                     "button button button button button";
+               }
+
+.heading {grid-area: heading;
+display: grid;
+grid-template-columns: 1fr 400px 1fr;
+}
+
+.button-arrow-left {grid-area: slidel;
+	align-self: center;
+}
+.button-arrow-left:hover {background-color: pink;}
+.button-arrow-right:hover {background-color: pink;}
+
+.button-arrow-right {grid-area: slider;
+	align-self: center;
+}
+
+
+.card1 {grid-area: card;
+display: grid;
+}
+
+.slide1 {display: grid;
+justify-self: center;
+align-self: center;
+width: 270px;
+height: 435px;
+background-color: #FAFAFA;
+border-radius: 9px;}
+
+.slide1:hover {background-color: pink;
+	box-shadow: 0 0 15px lightpink;
+	cursor: pointer;
+}
+
+.slide2:hover {background-color: pink;
+	box-shadow: 0 0 15px lightpink;
+	cursor: pointer;
+}
+
+.slide3:hover {background-color: pink;
+	box-shadow: 0 0 15px lightpink;
+	cursor: pointer;
+}
+
+.slide1 button:hover {border: 10px solid pink;}
+.slide2 button:hover {border: 10px solid pink;}
+.slide3 button:hover {border: 10px solid pink;}
+
+.slide1 p {display: grid;
+align-self: center;
+justify-self: center;
+font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #545454;}
+
+.slide1 button {display: grid;
+	align-self: center;
+	justify-self: center;
+	align-content: center;
+	border-radius: 100px;
+	font-family: 'Georgia';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      color: #292929;
+      border: 2px solid #F1CDB3;
+      width: 187px;
+      height: 52px;
+
+}
+
+.card2 {grid-area: card2;
+display: grid;}
+
+
+.slide2 {display: grid;
+justify-self: center;
+align-self: center;
+width: 270px;
+height: 435px;
+background-color: #FAFAFA;
+border-radius: 9px;}
+
+
+
+.slide2 p {display: grid;
+align-self: center;
+justify-self: center;
+font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #545454;}
+
+.slide2 button {display: grid;
+	align-self: center;
+	justify-self: center;
+	align-content: center;
+	border-radius: 100px;
+	font-family: 'Georgia';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      color: #292929;
+      border: 2px solid #F1CDB3;
+      width: 187px;
+      height: 52px;
+
+}
+
+
+.card3 {grid-area: card3;
+display: grid;}
+
+
+.slide3 {display: grid;
+justify-self: center;
+align-self: center;
+width: 270px;
+height: 435px;
+background-color: #FAFAFA;
+border-radius: 9px;}
+
+
+
+.slide3 p {display: grid;
+align-self: center;
+justify-self: center;
+font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #545454;}
+
+.slide3 button {display: grid;
+	align-self: center;
+	justify-self: center;
+	align-content: center;
+	border-radius: 100px;
+	font-family: 'Georgia';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      color: #292929;
+      border: 2px solid #F1CDB3;
+      width: 187px;
+      height: 52px;
+
+}
+
+.button-primary { grid-area:button;
+                 display: grid;
+                 align-self: center;
+                 justify-self: center;
+                 
+           }
+.button-primary button {border-radius: 100px;
+                 background-color: #F1CDB3;
+                 font-family: 'Georgia';
+                 font-style: normal;
+                 font-weight: 400;
+                 font-size: 17px;
+                 color: #292929;
+                 border: none;
+                 width: 261px;
+                 height: 52px;
+                 align-content: center;
+
+ }  
+
+ .button-primary:hover {border: 10px solid lightpink;
+                         border-radius: 100px;}        
+                 
+
+ .info3 h3 {width: 400px;
+ 	display: grid;
+ 	text-align: center;
+ 	align-content: center;}
+
+.block3 {display: grid;
+	   height: 600px;
+	   width: 100%;
+         }
+ 
+ .info4 {width: 1026px;
+ 	height: 430px;
+ 	display: grid;
+ 	align-self: center;
+ 	justify-self: center;
+ 	
+ 	
+ }	
+ 	
+ 
+
+.info4 .heading1 { display: grid;
+                 width: 100%;
+                 height: 140px;
+                 grid-template-columns:1fr 310px 1fr;
+
+                 
+                 }	
+
+            
+.info4 h3 {display: grid;
+                    text-align: center;
+                    }
+
+.icons {width: 100%;
+        height: 140px;
+        display: grid; 
+        grid-template-columns:1fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: 140px;
+        
+} 
+
+ .icons2 {width: 100%;
+        height: 140px;
+        display: grid; 
+        grid-template-columns:35% 10% 30% 15%;
+        grid-template-rows: 140px;
+        margin-top: 30px;
+        
+        
+}                 
+
+ .list1 {display: grid;
+ 	align-content: space-between;
+ 	justify-self: center;
+
+ } 
+
+ .list1 p {text-align: center;
+           font-family: 'Georgia';
+           font-size: 20px;
+     }
+
+
+ .list1 img {justify-self: center;} 
+
+
+.block4 {width: 100%;
+         height: 462px;
+         display: grid;
+         background-color: #F6F6F6;
+         }
+
+.info5 { 
+	width: 915px;
+      height: 282px;
+       display: grid;
+       align-self: center; 
+       justify-self: center;
+      grid-template-columns: 505px 1fr;
+}  
+
+.info5 h3 {width: 280px;
+           margin: 0;}
+
+.info5 h5 {font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+color: #545454;
+margin: 0;
+margin-top: 20px;
+
+}
+
+.pay {width: 350px;
+	height: 45px;
+      margin-top: 20px;
+      background-color: #F1CDB3;
+      display: grid;
+      grid-template-columns: 15% 85%;
+      border-radius: 10px;
+
+}
+
+.content {margin-left: 30px;}
+
+
+.pay img {display: grid;
+align-self: center;
+justify-self: center;}
+
+.pay a {display: grid;
+align-self: center;
+justify-self: center;
+margin: 0;
+font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #545454;
+text-decoration: none;
+}
+
+.pay a:hover {color: darkred;
+font-size: 23px;}
+
+.content p {font-family: 'Arial';
+font-style: italic;
+font-weight: 400;
+font-size: 12px;
+margin-top: 20px;
+color: #B2B2B2;
+line-height: 18px;}
+
+
+footer {width: 100%;
+height: 350px;
+background: url(noise_lines_transparent@2X.png), radial-gradient(110.67% 538.64% at 5.73% 50%, #513D2F 0%, #1A1A1C 100%);
+display: grid;
+}
+
+footer a {font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #F1CDB3;
+text-decoration: none;
+width: 280px;}
+
+.info6 {display: grid;
+              align-self: flex-end;
+              justify-self: center;
+              width: 1200px;
+              grid-template-columns: 2fr 2fr 1fr;
+              grid-template-rows: 315px;
+        }
+
+.icons3 {display: grid;
+grid-template-columns: 1fr 1fr 3fr;
+margin-top: 45px;}
+
+footer img {margin-right: 15px;}
+
+
+
+
+
+
+
+
+
+
+
+
