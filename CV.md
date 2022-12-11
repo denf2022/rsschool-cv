@@ -9,6 +9,7 @@
 - Email: denf2007@gmail.com
 - GitHub: denf2022
 - Site: https://vk.com/bolshakov1988
+- Discord: DenisBolshakov(denf2022)
 
 ## About Me
 
@@ -34,3 +35,6 @@ University: Belarusian National Technical University,speciality - car mechanic e
 
 ## Courses:
 WayUp : Web designer - Start
+
+## Projects
+https://denf2022.github.io/rsschool-cv/CV
