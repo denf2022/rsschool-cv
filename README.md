@@ -1,6 +1,6 @@
 # rsschool
 
-# https://denf2022.github.io/rsschool-cv/index.html
+# https://denf2022.github.io/rsschool-cv/CV/index.html
 
 
 
