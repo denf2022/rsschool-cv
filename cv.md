@@ -17,8 +17,8 @@ I am 34 years old and by education I am an auto mechanic. I decided to change my
 
 
 ## Skills
-HTML/Css (Basic)
-Git (Basic)
+- HTML/Css (Basic)
+- Git (Basic)
 
 ## Code Example
 
