@@ -2,6 +2,7 @@
 
 # Denis Bolshakov
 ---
+<p><img src="https://sun9-56.userapi.com/impg/TuvHoXRYfvOY2rYHSmzqb1hXxO1Ml9C870NXWQ/2G80mduyHDY.jpg?size=1200x1600&quality=95&sign=b0245d189ae786b333e7027c2b2008a9&type=album" alt="This is I"></p>
 
 ## Contacts
 - Location: Minsk, Belarus
