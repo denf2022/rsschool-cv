@@ -37,4 +37,4 @@ University: Belarusian National Technical University,speciality - car mechanic e
 WayUp : Web designer - Start
 
 ## Projects
-
+https://denf2022.github.io/rsschool-cv/cv
