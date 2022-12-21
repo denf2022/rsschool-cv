@@ -1,4 +1,4 @@
-<img src="https://sun9-73.userapi.com/impg/SK1K2ytO4KI9qnoJIs2qR6gIS3PgVulfF-Fu3Q/-kDjRovG8F4.jpg?size=1200x1600&quality=95&sign=3dbcc06801b118153065ece028f1e9a3&type=album"> 
+
 
 # Denis Bolshakov
 ---
@@ -37,4 +37,4 @@ University: Belarusian National Technical University,speciality - car mechanic e
 WayUp : Web designer - Start
 
 ## Projects
-https://denf2022.github.io/rsschool-cv/cv
+
